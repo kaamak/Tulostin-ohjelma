@@ -14,7 +14,10 @@ public class App {
 
     System.out.println("luku1-muuttujan arvo on " + Luku1);
     System.out.println("luku2-muuttujan arvo on " + Luku2);
+    System.out.println(Luku1 + " * " + Luku2 + " = " + tulo);
+    System.out.println(Luku1 + " - " + Luku2 + " = " + erotus);
+    System.out.println(Luku1 + " + " + Luku2 + " = " + summa);
+    System.out.println(Luku1 + " / " + Luku2 + " = " + jako);
 
-    
     }
 }
