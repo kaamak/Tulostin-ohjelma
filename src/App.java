@@ -7,5 +7,8 @@ public class App {
     int Luku1 = 5;
     int Luku2 = 2;
         
+    System.out.println("luku1-muuttujan arvo on " + Luku1);
+    System.out.println("luku2-muuttujan arvo on " + Luku2);
+    
     }
 }
